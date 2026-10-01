@@ -1,0 +1,6 @@
+{
+  "name": "CUÁNTO NECESITO - Calculadora de Notas",
+  "description": "Calculadora y simulador de notas para estudiantes: calcula en tiempo real la nota necesaria para aprobar en la última evaluación con simulación de escenarios mínimo, esperado y meta.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
